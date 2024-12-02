@@ -21,3 +21,7 @@
   - [ ] Timeline component
   - [ ] Contact form
 
+- [ ] MDX CMS Integration
+
+- [ ] Server actions for Resume Update
+
